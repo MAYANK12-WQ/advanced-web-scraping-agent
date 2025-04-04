@@ -1,0 +1,30 @@
+# Core dependencies
+gradio>=3.50.2
+python-dotenv>=1.0.0
+
+# Scraping libraries
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+scrapy>=2.11.0
+selenium>=4.15.2
+pyppeteer>=1.0.2
+lxml>=4.9.3
+
+# API clients
+scrapingbee>=1.2.0
+webscrapingapi>=2.0.0
+scrapeninja>=0.1.0
+twocaptcha>=0.0.1
+
+# Utilities
+pandas>=2.0.3
+regex>=2023.10.3
+tqdm>=4.66.1
+colorlog>=6.7.0
+
+# Proxy handling
+fake-useragent>=1.3.0
+rotating-proxies>=0.6.0
+
+# For Hugging Face Spaces compatibility
+pyngrok>=7.0.0
